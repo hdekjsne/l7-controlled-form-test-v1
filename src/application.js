@@ -1,4 +1,4 @@
-export default function () {
+export default function application() {
   const form = document.createElement('form');
   form.id = 'registrationForm';
 
